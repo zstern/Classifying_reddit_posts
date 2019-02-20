@@ -1,4 +1,4 @@
-PROJECT 3: REDDIT POSTS 
+
 
 Executive Summary:
 
